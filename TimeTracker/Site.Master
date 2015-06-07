@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TimeTracker.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Style/TimeTrackerStyle.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="PlaceHolderTop" runat="server">
+            <asp:Label runat="server" ID ="lblHelloUser" CssClass="label"></asp:Label>
+            <asp:LinkButton runat="server" ID="lblLogOut" OnClick="lblLogOut_Click">Log out</asp:LinkButton>
+            <h1>User's Table</h1>
+            
+        </asp:ContentPlaceHolder>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="PlaceHolderCenter" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="PlaceHolderBottom" runat="server">
+            <p>Stoyan Petkov &copy all rights reserverd</p>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

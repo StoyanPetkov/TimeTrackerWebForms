@@ -1,0 +1,17 @@
+C:\Users\stoyan petkov\documents\visual studio 2012\Projects\TimeTracker\TimeTracker\bin\TimeTracker.dll
+C:\Users\stoyan petkov\documents\visual studio 2012\Projects\TimeTracker\TimeTracker\bin\TimeTracker.pdb
+C:\Users\stoyan petkov\documents\visual studio 2012\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.dll
+C:\Users\stoyan petkov\documents\visual studio 2012\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
+C:\Users\stoyan petkov\documents\visual studio 2012\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\bin\TimeTracker.dll.config
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\bin\TimeTracker.dll
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\bin\TimeTracker.pdb
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.dll
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
+C:\Users\Stoyan Petkov\Documents\Visual Studio 2013\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\bin\TimeTracker.dll.config
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\bin\TimeTracker.dll
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\bin\TimeTracker.pdb
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\obj\Debug\TimeTracker.dll
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
+C:\Users\Stoyan\Desktop\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
